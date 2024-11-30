@@ -1,0 +1,23 @@
+.email {
+    display: block;
+    width: 400px;
+    height: 50px;
+}
+.password {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 50px;
+}
+.btn {
+    width: 400px ;
+    height: 50px;
+}
+.container{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
